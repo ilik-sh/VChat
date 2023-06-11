@@ -1,0 +1,11 @@
+Swift.gitignore
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+timeline.xctimeline
+playground.xcworkspace
+
+.build/
+VaporChatClient/Pods/
+ *.xcworkspace
+.DS_Store
