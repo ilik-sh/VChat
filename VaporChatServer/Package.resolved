@@ -28,6 +28,33 @@
       }
     },
     {
+      "identity" : "fluent",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/vapor/fluent.git",
+      "state" : {
+        "revision" : "4b4d8bf15a06fd60137e9c543e5503c4b842654e",
+        "version" : "4.8.0"
+      }
+    },
+    {
+      "identity" : "fluent-kit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/vapor/fluent-kit.git",
+      "state" : {
+        "revision" : "2d7dce5cb04156eecdb17e7349f4eac4206e8a17",
+        "version" : "1.42.4"
+      }
+    },
+    {
+      "identity" : "fluent-mysql-driver",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/vapor/fluent-mysql-driver.git",
+      "state" : {
+        "revision" : "829ae8fce0798d8edbed6167419db8774d9fcb8d",
+        "version" : "4.3.0"
+      }
+    },
+    {
       "identity" : "multipart-kit",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/vapor/multipart-kit.git",
@@ -37,12 +64,39 @@
       }
     },
     {
+      "identity" : "mysql-kit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/vapor/mysql-kit.git",
+      "state" : {
+        "revision" : "d944fb3289b8341ffbdf157c504db1f494e36ed0",
+        "version" : "4.7.0"
+      }
+    },
+    {
+      "identity" : "mysql-nio",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/vapor/mysql-nio.git",
+      "state" : {
+        "revision" : "4d2aa3800ec47856a888bcb7a30034087e70b788",
+        "version" : "1.7.0"
+      }
+    },
+    {
       "identity" : "routing-kit",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/vapor/routing-kit.git",
       "state" : {
         "revision" : "611bc45c5dfb1f54b84d99b89d1f72191fb6b71b",
         "version" : "4.7.2"
+      }
+    },
+    {
+      "identity" : "sql-kit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/vapor/sql-kit.git",
+      "state" : {
+        "revision" : "5026e7c0f2e464ea1af9f5948701aa8922ab14eb",
+        "version" : "3.27.0"
       }
     },
     {
